@@ -60,6 +60,7 @@ The potential for future features and enhancements is virtually limitless. Some 
 - **BMI Calculation**
 - **Blood Group Detection**
 - **Psychological Problem Detection**
+- **Creating our own AI models for various medical diagnostics**
 - **And many more innovative tools**
 
 These creative tools and features will further enhance the functionality of our system, providing comprehensive health analysis and diagnostics for our patients.
